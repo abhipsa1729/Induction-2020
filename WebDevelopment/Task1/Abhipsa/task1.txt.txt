@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>	
+  <meta charset="UTF-8">	
+    <title>RUSTY STEEL</title>
+    <!-----CSS USING STYLE ATTRIBUTE-------->
+    <style >
+    	body
+    	{
+    	  background-image:url("images/grass.jpg") ;
+    	 background-image: linear-gradient(green, yellow, green);
+    	}
+
+    	figure
+    	{
+    		margin-left: 500px;
+    	}
+
+    	h1{
+    		text-align: center;
+    	}
+    	p{
+    		margin-left: 500px;
+    		font-weight:bold;
+    	}
+    	div{
+    	margin-left: 500px;
+    	font-weight:bold;
+    	}
+        footer{
+        	margin-left:500px;
+        	font-weight:bold;
+        }
+        button{
+        	background-color: pink;
+
+    font-size: 75%;
+    border-width: 3px 2px ;
+    font-weight:bold;
+        }
+
+    </style>
+    <!--------------------------------------------------------------------------------------->
+</head>
+<body>
+	
+	<h1> Hi, I'm a dog. Woof!</h1>
+	<figure>
+		<img src="images/doggy.jpg" width="200px" height="200px" alt="RUSTY">
+	</figure>
+	<p> Some of my favourite places <p>
+		<div>
+		<ul>
+			<li>The Beach </li>
+			<li>The dog park</li>
+			<li>The fire Hydrant</li>
+		</ul></div>
+		<footer>
+			Make sure to follow me on
+			<button>	<a href= "http://instagram.com" > Instagram.</a></button>	
+                </footer>
+
+
+</body>
